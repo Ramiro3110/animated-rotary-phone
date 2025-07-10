@@ -18,10 +18,6 @@ document.addEventListener('click', hello);
 document.addEventListener('click', hello);
 
 function hello(event) {
-  alert(event.pageX)
-}
-
-function hello(event) {
   /* Find the element by id */
   const element = document.getElementById("name");
   /* Change the "left" value of the element's style */
