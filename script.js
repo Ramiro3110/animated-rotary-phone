@@ -16,3 +16,7 @@ document.addEventListener('click', hello);
 }
 
 document.addEventListener('click', hello);
+
+function hello(event) {
+  alert(event.pageX)
+}
