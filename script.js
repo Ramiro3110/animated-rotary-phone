@@ -5,3 +5,7 @@ function hello() {
     alert("Hello, world!")
     
 } /* Enclose the action in {} */
+
+function hello() {
+    alert("Hello, world!")
+}
